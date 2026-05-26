@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+venv_m4/
+
+# Transcription results and media
+*.txt
+*.mp4
+*.wav
+*.mp3
+*.m4a
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
