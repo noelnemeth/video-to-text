@@ -11,7 +11,7 @@ Ez egy egyszerű eszköz videó fájlok hanganyagának szöveggé alakításáho
 
 1. Lépj be a mappába:
    ```bash
-   cd ~/programozas/video-to-text
+   cd ~/video-to-text
    ```
 2. Aktiváld a virtuális környezetet:
    ```bash
