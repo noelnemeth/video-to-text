@@ -7,7 +7,6 @@ venv/
 venv_m4/
 
 # Transcription results and media
-*.txt
 *.mp4
 *.wav
 *.mp3
